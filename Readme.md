@@ -117,7 +117,3 @@ The C++ code for Question 3 involves finding unique paths for a castle to elimin
    - Reads the number of soldiers and their positions from the user.
    - Reads the castle's starting position.
    - Calls the `findPaths` function to find and display all unique paths.
-
----
-
-This README provides an overview of the algorithms and references used in the three questions. Each section outlines the key components and steps involved in the implementation, along with relevant references and articles for further reading.
